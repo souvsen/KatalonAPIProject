@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>frame_1</name>
+   <tag></tag>
+   <elementGuidId>d1c99a38-7124-4356-82bd-dffff237488a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//frameset/frameset/frame</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>frameset > frameset > frame</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>frame</value>
+      <webElementGuid>25cf7659-92a0-47f2-b0dc-97f64529e388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>frame_2.html</value>
+      <webElementGuid>27f03f5d-9b2a-4872-8d34-d5e73c0a88ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/frameset[1]/frameset[1]/frame[1]</value>
+      <webElementGuid>1f9502da-2faf-4901-b37f-a82e95a30adf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//frameset/frameset/frame</value>
+      <webElementGuid>e21a83a7-7e37-4db1-b1eb-0b15b01700a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//frame[@src = 'frame_2.html']</value>
+      <webElementGuid>0eedf4dd-a605-4dd5-8152-92a10aa473f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

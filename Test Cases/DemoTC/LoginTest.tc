@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b91a2947-bcd4-4edd-b8d6-a5b785ef96bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1be48f4f-d102-43fb-8c9f-6ff5912ae40a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c85ac8f8-7ccd-4b47-8129-cb3ce8e6bdd2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@yourstore.com'</defaultValue>
+      <description></description>
+      <id>1be48f4f-d102-43fb-8c9f-6ff5912ae40a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'RAIVpflpDOg='</defaultValue>
+      <description></description>
+      <id>c85ac8f8-7ccd-4b47-8129-cb3ce8e6bdd2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

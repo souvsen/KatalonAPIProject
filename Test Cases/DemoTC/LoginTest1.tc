@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginTest1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b434ba9-f215-4e35-9c37-20bc3d533ce3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5888690c-3762-4b79-8c89-5b4c0e73261e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86d3d5f2-27f7-4a60-8700-0731f5ceddd3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c4e769d9-b5c9-4105-8a61-968fb3169681</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.ebay.com/'</defaultValue>
+      <description></description>
+      <id>5888690c-3762-4b79-8c89-5b4c0e73261e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>86d3d5f2-27f7-4a60-8700-0731f5ceddd3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>c4e769d9-b5c9-4105-8a61-968fb3169681</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
